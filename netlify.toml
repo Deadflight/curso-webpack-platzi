@@ -1,0 +1,4 @@
+// netlify config deploy
+[build]
+  publish = "dist"
+  comand = "npm run build"
